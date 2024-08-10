@@ -2,122 +2,16 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+### ঈমান / বিশ্বাস ( Believe )
+ইসলামের মূল কথা / সারাংশ হলো বিশ্বাস এবং ভালো কাজ | (`Believe`  and `good deeds`)
 
-[Link to another page](./another-page.html).
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+##### বিশ্বাস কি ?
+- কোনো কিছুকে বিশ্বাস করার অর্থ হল চূড়ান্ত প্রমাণ বা প্রমাণ ছাড়াই তা সত্য বা বাস্তব হিসাবে গ্রহণ করা। ( To believe something means to accept it as true or real without necessarily having conclusive evidence or proof. )
+- এটি তথ্যের নির্ভুলতা বা বৈধতার উপর আস্থা, বিশ্বাস বা আস্থার মাত্রা বোঝায়। ( It implies a degree of trust, faith, or confidence in the accuracy or validity of the information. )
+- কিছু বিশ্বাস করার জন্য অগত্যা অভিজ্ঞতামূলক প্রমাণ বা যৌক্তিক যুক্তির প্রয়োজন হয় না; এটি ব্যক্তিগত অভিজ্ঞতা, অন্তর্দৃষ্টি, বা মানসিক প্রত্যয়ের উপর ভিত্তি করে হতে পারে। ( Believing something doesn't necessarily require empirical evidence or logical reasoning; it can be based on personal experience, intuition, or emotional conviction. )
+- কিছু বিশ্বাস করা অন্তর্নিহিত কারণ বা প্রক্রিয়াগুলি অগত্যা না বুঝে বা বোঝা ছাড়াই কিছুকে সত্য হিসাবে গ্রহণ করার ইচ্ছাকে বোঝাতে পারে। ( Believing something can also imply a willingness to accept something as true without necessarily understanding or comprehending the underlying reasons or mechanisms. )
 
 
-### Definition lists can be used with HTML syntax.
+উদাহরণ: "আমি পুনর্ব্যবহারের গুরুত্বে বিশ্বাস করি" (এখানে, বক্তা অগত্যা সুনির্দিষ্ট প্রমাণ বা প্রমাণ ছাড়াই পুনর্ব্যবহার করার গুরুত্ব স্বীকার করেন)। ( "I believe in the importance of recycling" (here, the speaker accepts the importance of recycling without necessarily having concrete evidence or proof). )
 
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+##### আমাদের কি বিশ্বাস করতে হবে ?
