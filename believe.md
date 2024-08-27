@@ -34,30 +34,35 @@ layout: default
 `2:4` আর তোমার প্রতি যা নাযিল হয়েছে ও তোমার পূর্বে যা নাযিল হয়েছে তাতে তারা বিশ্বাস স্থাপন করে এবং পরকালের প্রতিও তারা নিশ্চিত বিশ্বাসী।
 
 `2:4` and who believe in what has been revealed to you ˹O Prophet˺1 and what was revealed before you, and have sure faith in the Hereafter.
+
 ***
 وَمِنَ ٱلنَّاسِ مَن يَقُولُ `ءَامَنَّا` بِٱللَّهِ وَبِٱلْيَوْمِ ٱلْـَٔاخِرِ وَمَا هُم بِمُؤْمِنِينَ
 
 `2:8` মানুষের মধ্যে এমন লোক আছে যারা বলে, ‘‘আমরা আল্লাহর প্রতি এবং আখেরাতের দিনের প্রতি ঈমান এনেছি’’ কিন্তু প্রকৃতপক্ষে তারা মু’মিন নয়।
 
 `2:8` And there are some who say, “We believe in Allah and the Last Day,” yet they are not ˹true˺ believers.
+
 ***
 وَإِذَا قِيلَ لَهُمْ `ءَامِنُوا۟` كَمَآ ءَامَنَ ٱلنَّاسُ قَالُوٓا۟ أَنُؤْمِنُ كَمَآ `ءَامَنَ` ٱلسُّفَهَآءُ ۗ أَلَآ إِنَّهُمْ هُمُ ٱلسُّفَهَآءُ وَلَـٰكِن لَّا يَعْلَمُونَ 
 
 `2:13` যখন তাদেরকে বলা হয়, যে সব লোক ঈমান এনেছে তাদের মতো তোমরাও ঈমান আন, তারা বলে, ‘নির্বোধেরা যেমন ঈমান এনেছে, আমরাও কি তেমনি ঈমান আনব’? আসলে তারাই নির্বোধ, কিন্তু তারা তা’ বুঝতে পারে না।
 
 `2:13` And when they are told, “Believe as others believe,” they reply, “Will we believe as the fools believe?” Indeed, it is they who are fools, but they do not know.
+
 ***
 وَإِذَا لَقُوا۟ `ٱلَّذِينَ` ءَامَنُوا۟ قَالُوٓا۟ ءَامَنَّا وَإِذَا خَلَوْا۟ إِلَىٰ شَيَـٰطِينِهِمْ قَالُوٓا۟ إِنَّا مَعَكُمْ إِنَّمَا نَحْنُ مُسْتَهْزِءُونَ
 
 `2:14` যখন তারা মু’মিনদের সংস্পর্শে আসে তখন বলে, ‘আমরা ঈমান এনেছি’; আর যখন তারা নিভৃতে তাদের শয়ত্বানদের (সর্দারদের) সঙ্গে মিলিত হয় তখন বলে, ‘আমরা তোমাদের সাথেই আছি, আমরা শুধু তাদের সঙ্গে ঠাট্টা-তামাশা করি মাত্র’।
 
 `2:14` When they meet the believers they say, “We believe.” But when alone with their evil associates they say, “We are definitely with you; we were only mocking.”
+
 ***
 وَبَشِّرِ ٱلَّذِينَ `ءَامَنُوا۟` وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ أَنَّ لَهُمْ جَنَّـٰتٍۢ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَـٰرُ ۖ كُلَّمَا رُزِقُوا۟ مِنْهَا مِن ثَمَرَةٍۢ رِّزْقًۭا ۙ قَالُوا۟ هَـٰذَا ٱلَّذِى رُزِقْنَا مِن قَبْلُ ۖ وَأُتُوا۟ بِهِۦ مُتَشَـٰبِهًۭا ۖ وَلَهُمْ فِيهَآ أَزْوَٰجٌۭ مُّطَهَّرَةٌۭ ۖ وَهُمْ فِيهَا خَـٰلِدُونَ
 
 `2:25` যারা ঈমান আনে ও সৎকর্ম করে তাদেরকে সুসংবাদ দাও যে, তাদের জন্য আছে জান্নাত, যার নিম্নদেশে নদীসমূহ প্রবাহিত। তাদেরকে যখনই ফলমূল খেতে দেয়া হবে, তখনই তারা বলবে, আমাদেরকে পূর্বে জীবিকা হিসেবে যা দেয়া হতো, এতো তারই মতো। একই রকম ফল তাদেরকে দেয়া হবে এবং সেখানে রয়েছে তাদের জন্য পবিত্র সঙ্গিণী, তারা সেখানে চিরস্থায়ী হবে।
 
 `2:25` And give good tidings to those who believe and do righteous deeds that they will have gardens [in Paradise] beneath which rivers flow. Whenever they are provided with a provision of fruit therefrom, they will say, "This is what we were provided with before." And it is given to them in likeness. And they will have therein purified spouses, and they will abide therein eternally.
+
 ***
  قُلْنَا ٱهْبِطُوا۟ مِنْهَا جَمِيعًۭا ۖ فَإِمَّا يَأْتِيَنَّكُم مِّنِّى هُدًۭى فَمَن تَبِعَ هُدَاىَ فَلَا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ يَحْزَنُونَ
 
@@ -71,6 +76,7 @@ layout: default
 `2:39` আর যারা `কুফরী` করবে ও আমার নিদর্শনগুলোকে অস্বীকার করবে, তারাই জাহান্নামী; সেখানে তারা চিরকাল থাকবে।
 
 `2:39` But those who `disbelieve` and deny Our signs will be the residents of the Fire. They will be there forever.
+
 ***
 يَـٰبَنِىٓ إِسْرَٰٓءِيلَ ٱذْكُرُوا۟ نِعْمَتِىَ ٱلَّتِىٓ أَنْعَمْتُ عَلَيْكُمْ وَأَوْفُوا۟ بِعَهْدِىٓ أُوفِ بِعَهْدِكُمْ وَإِيَّـٰىَ فَٱرْهَبُونِ
 
@@ -83,6 +89,7 @@ layout: default
 `2:41` আর আমি যা নাযিল করেছি তোমরা তাতে `ঈমান` আনো। এটা তোমাদের কাছে যা আছে তার সততা প্রমাণকারী। আর তোমরাই এর প্রথম `অস্বীকারকারী` হয়ো না এবং আমার আয়াতসমূহের বিনিময়ে তুচ্ছ মূল্য গ্রহন করো না। আর তোমরা কেবল আমাকেই ভয় কর।
 
 `2:41` And `believe` in what I have sent down confirming that which is [already] with you, and be not the first to `disbelieve` in it. And do not exchange My signs for a small price, and fear [only] Me.
+
 ***
 
 ***
