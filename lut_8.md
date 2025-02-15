@@ -13,6 +13,12 @@ And [mention] Lot, when he said to his people, "Indeed, you commit such immorali
 
 স্মরণ কর লূতের কথা, যখন সে তার সম্প্রদায়কে বলেছিল- অবশ্যই তোমরা এমন এক অশ্লীল কাজ করছ যা তোমাদের পূর্বে বিশ্বজগতে কেউ করেনি।
 
+And Lut, when he said to his people (males & females): Surely, you all (males & females) approach the Fahisha = Excessiveness in being wrong, at a level that no one in the alameen = those around you has reached.
+
+
+আর লূত (আঃ) যখন তাঁর সম্প্রদায়কে (পুরুষ ও নারী উভয়কে) বললেন: 'নিশ্চয়ই তোমরা সবাই (পুরুষ ও নারী) ফাহিশা—অর্থাৎ অন্যায়ের অতিরেক/অনৈতিকতার চূড়ান্ত পর্যায়—এর দিকে এগিয়ে চলেছ, এমন এক স্তরে যা তোমাদের চারপাশের কোনো মানুষ (তোমাদের নিকটবর্তী সম্প্রদায়) কখনও পৌঁছায়নি।'
+
+
 `29`
 
 `أَئِنَّكُمْ لَتَأْتُونَ ٱلرِّجَالَ وَتَقْطَعُونَ ٱلسَّبِيلَ وَتَأْتُونَ فِى نَادِيكُمُ ٱلْمُنكَرَ ۖ فَمَا كَانَ جَوَابَ قَوْمِهِۦٓ إِلَّآ أَن قَالُوا۟ ٱئْتِنَا بِعَذَابِ ٱللَّهِ إِن كُنتَ مِنَ ٱلصَّـٰدِقِينَ`
@@ -20,6 +26,11 @@ And [mention] Lot, when he said to his people, "Indeed, you commit such immorali
 Indeed, you approach men and obstruct the road1 and commit in your meetings [every] evil." And the answer of his people was not but that they said, "Bring us the punishment of Allāh, if you should be of the truthful."
 
 তোমরা পুরুষের উপর উপগত হচ্ছ এবং তোমরা রাহাজানি করে থাক এবং তোমরা নিজেদের মজলিশে প্রকাশ্য ঘৃণ্য কাজ করে থাক। উত্তরে তার সম্প্রদায় শুধু এই বললঃ আমাদের উপর আল্লাহর শাস্তি আনয়ন কর, যদি তুমি সত্যবাদী হও।
+
+Do you all (males & females) approach the powerful / authoritative ones = rijal, and cut off the Al-Sabeel = Allah's path, and you approach in your gatherings that what is understood to be wrong / is disavowed ? Then the only answer of his Qom had was this: Bring to us the azab = retribution of Allah / Allah's rules, if you are indeed from the truthful ones
+
+তোমরা কি (পুরুষ ও নারী উভয়েই) প্রভাবশালী / কর্তৃত্বশীল ব্যক্তিদের কাছে যাও এবং আল্লাহর পথ (আস-সাবীল)কে বিচ্ছিন্ন করো এবং তোমাদের সমাবেশে সেইসব বিষয় নিয়ে আলোচনা করা যা ভুল বা অস্বীকৃত বলে বোঝা যায়? তখন তাঁর সম্প্রদায়ের একমাত্র উত্তর ছিল: 'যদি তুমি সত্যবাদী হও, তবে আল্লাহর শাস্তি বা বিধান (আযাব) আমাদের উপর নিয়ে আসো!'
+
 
 `30`
 

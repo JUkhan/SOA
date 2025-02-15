@@ -22,6 +22,11 @@ Indeed, you approach men with desire, instead of women. Rather, you are a transg
 
 তোমরা যৌন তাড়নায় স্ত্রীদের বাদ দিয়ে পুরুষদের নিকট গমন করছ, তোমরা হচ্ছ এক সীমালঙ্ঘনকারী সম্প্রদায়।
 
+Do you all (males and females) approach the powerful / authoritative ones = rijal, in a state of always seeking / always  wanting / always desiring more, WITHOUT taking the Nisa -- the forgotten ones, those mutakhireen whose potential is still to come, ones who are weak -- into account? No, you all are a people who are transgressors / excessive!
+
+তোমরা কি (পুরুষ ও নারী উভয়েই) প্রভাবশালী/কর্তৃত্বশীলদের (রিজাল) কাছে এমনভাবে ধাবিত হও, যেখানে তোমাদের অবস্থা হলো—অনবরত চাওয়া-পাওয়ার লিপ্সায় আক্রান্ত, আর 'নিসা' (উপেক্ষিত দুর্বলরা, যাদের সম্ভাবনা এখনো অঙ্কুরিত হয়নি; পিছিয়ে পড়া ও দুর্বল শ্রেণি)-দেরকে সম্পূর্ণ উপেক্ষা করো? না! বরং তোমরা তো সীমালঙ্ঘনকারী একটি সম্প্রদায়!
+
+
 `82`
 
 `وَمَا كَانَ جَوَابَ قَوْمِهِۦٓ إِلَّآ أَن قَالُوٓا۟ أَخْرِجُوهُم مِّن قَرْيَتِكُمْ ۖ إِنَّهُمْ أُنَاسٌۭ يَتَطَهَّرُونَ`

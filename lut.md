@@ -22,3 +22,8 @@ layout: default
 
 [Chapter: 54 Surah Al-Qamar](./lut_10.md)
 
+
+Banatu rasul Lut = those teachings/instructions/ideals that Rasul Lut had built regarding the nisaa in his community who were ignored
+
+"রাসূল লূতের বানাত (শিক্ষা/নির্দেশনা/আদর্শ)
+— অর্থাৎ, তিনি তাঁর সম্প্রদায়ের মধ্যে নিসা (উপেক্ষিত, দুর্বল, এবং যাদের সম্ভাবনা উপেক্ষা করা হয়েছিল)-দের জন্য যে নৈতিক ও সামাজিক ভিত্তি প্রতিষ্ঠা করেছিলেন, তা হলো এমন একটি ব্যবস্থা যা সমাজের পিছিয়ে পড়া সদস্যদের মর্যাদা ও অধিকার রক্ষায় নিবেদিত ছিল।"
