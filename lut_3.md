@@ -1,0 +1,69 @@
+---
+layout: default
+---
+
+
+`Chapter: 11 Surah Hud`
+
+`Lut’s interaction with the angels sent to destroy Sodom. His people demand access to the "guests" (angels) for sinful purposes.`
+
+`Theme: Divine rescue of the righteous and punishment of the wicked.`
+
+`77`
+
+`وَلَمَّا جَآءَتْ رُسُلُنَا لُوطًۭا سِىٓءَ بِهِمْ وَضَاقَ بِهِمْ ذَرْعًۭا وَقَالَ هَـٰذَا يَوْمٌ عَصِيبٌۭ`
+
+And when Our messengers came to Lot, he was perturbed by their coming and felt troubled on their account, and said: 'This is a distressing day'.
+
+আর যখন আমার ঐ মালাইকাগণ লূতের নিকট উপস্থিত হল তখন সে তাদের জন্য চিন্তিত হয়ে পড়ল এবং সেই কারণে অন্তর সংকুচিত হল, আর বললঃ আজকের দিনটি অতি কঠিন।
+
+`78`
+
+`وَجَآءَهُۥ قَوْمُهُۥ يُهْرَعُونَ إِلَيْهِ وَمِن قَبْلُ كَانُوا۟ يَعْمَلُونَ ٱلسَّيِّـَٔاتِ ۚ قَالَ يَـٰقَوْمِ هَـٰٓؤُلَآءِ بَنَاتِى هُنَّ أَطْهَرُ لَكُمْ ۖ فَٱتَّقُوا۟ ٱللَّهَ وَلَا تُخْزُونِ فِى ضَيْفِىٓ ۖ أَلَيْسَ مِنكُمْ رَجُلٌۭ رَّشِيدٌۭ`
+
+And his people came hastening to him, and before [this] they had been doing evil deeds.1 He said, "O my people, these are my daughters; they are purer for you. So fear Allāh and do not disgrace me concerning my guests. Is there not among you a man of reason?"
+
+আর তার কাওম তার কাছে ছুটে এলো, এবং তারা পূর্ব হতে কু-কার্যসমূহ করেই আসছিল। লূত বললঃ হে আমার কাওম! (তোমাদের ঘরে) আমার এই কন্যারা রয়েছে, এরা তোমাদের জন্য অতি উত্তম, অতএব তোমরা আল্লাহকে ভয় কর এবং আমাকে আমার মেহমানদের সামনে অপমানিত করনা; তোমাদের মধ্যে কি সুবোধ লোক কেহ নেই?
+
+`79`
+
+`قَالُوا۟ لَقَدْ عَلِمْتَ مَا لَنَا فِى بَنَاتِكَ مِنْ حَقٍّۢ وَإِنَّكَ لَتَعْلَمُ مَا نُرِيدُ`
+
+They said: 'Surely you already know that we have nothing to do with your daughters.1 You also know well what we want.'
+
+তারা বললঃ তুমিতো অবগত আছ যে, তোমার এই কন্যাগুলির আমাদের কোন প্রয়োজন নেই, আর আমাদের অভিপ্রায় কি তাও তোমার জানা আছে।
+
+`80`
+
+`قَالَ لَوْ أَنَّ لِى بِكُمْ قُوَّةً أَوْ ءَاوِىٓ إِلَىٰ رُكْنٍۢ شَدِيدٍۢ`
+
+He said, "If only I had against you some power or could take refuge in a strong support."
+
+সে বলল, ‘তোমাদেরকে দমন করার ক্ষমতা আমার যদি থাকত! অথবা কোন মজবুত আশ্রয়ে যদি আশ্রয় নিতে পারতাম!’
+
+`81`
+
+`قَالُوا۟ يَـٰلُوطُ إِنَّا رُسُلُ رَبِّكَ لَن يَصِلُوٓا۟ إِلَيْكَ ۖ فَأَسْرِ بِأَهْلِكَ بِقِطْعٍۢ مِّنَ ٱلَّيْلِ وَلَا يَلْتَفِتْ مِنكُمْ أَحَدٌ إِلَّا ٱمْرَأَتَكَ ۖ إِنَّهُۥ مُصِيبُهَا مَآ أَصَابَهُمْ ۚ إِنَّ مَوْعِدَهُمُ ٱلصُّبْحُ ۚ أَلَيْسَ ٱلصُّبْحُ بِقَرِيبٍۢ`
+
+They [the angels] said, "O Lot, indeed we are messengers of your Lord; [therefore], they will never reach you. So set out with your family during a portion of the night and let not any among you look back - except your wife; indeed, she will be struck by that which strikes them. Indeed, their appointment is [for] the morning. Is not the morning near?"
+
+আগুন্তুকরা বলল, ‘হে লূত! আমরা তোমার প্রতিপালক প্রেরিত বার্তাবাহক, তারা তোমার কাছে কক্ষনো পৌঁছতে পারবে না, কাজেই কিছুটা রাত বাকী থাকতে তুমি তোমার পরিবার-পরিজন নিয়ে বেরিয়ে পড়, তোমাদের কেউ যেন পিছনের দিকে না তাকায়। কিন্তু তোমার স্ত্রী (তোমাদের সঙ্গী হতে পারবে না) তারও তাই ঘটবে, অন্যদের যা ঘটবে। সকাল হল তাদের (শাস্তি আসার) নির্ধারিত সময়, সকাল কি নিকটবর্তী নয়?’
+
+`82`
+
+`فَلَمَّا جَآءَ أَمْرُنَا جَعَلْنَا عَـٰلِيَهَا سَافِلَهَا وَأَمْطَرْنَا عَلَيْهَا حِجَارَةًۭ مِّن سِجِّيلٍۢ مَّنضُودٍۢ`
+
+And when Our command came to pass, We turned the town upside down, and rained on it stones of baked clay, one on another,
+
+তারপর আমার নির্দেশ যখন এসে গেল, তখন আমি সেই জনপদকে উপর নীচ করে উল্টে দিলাম, আর তাদের উপর স্তরে স্তরে পাকানো মাটির প্রস্তর বর্ষণ করলাম।
+
+`83`
+
+`مُّسَوَّمَةً عِندَ رَبِّكَ ۖ وَمَا هِىَ مِنَ ٱلظَّـٰلِمِينَ بِبَعِيدٍۢ`
+
+marked from your Lord. Nor is the punishment far off from the wrong-doers.
+
+যে প্রস্তর খন্ডের প্রতিটিই তোমার প্রতিপালকের নিকট চিহ্নিত ছিল। যালিমদের জন্য এ শাস্তি বেশী দূরের ব্যাপার নয়।
+
+
+[Back](./lut.md)

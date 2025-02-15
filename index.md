@@ -13,3 +13,5 @@ layout: default
 [Nobi](./nobi.html)
 
 [Worship](./worship.html)
+
+[Lut Story](./lut.md)
