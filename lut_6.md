@@ -49,17 +49,19 @@ And I do not ask you for it any payment. My payment is only from the Lord of the
 
 `أَتَأْتُونَ ٱلذُّكْرَانَ مِنَ ٱلْعَـٰلَمِينَ`
 
-Do you approach males among the worlds
+Do you approach/take the reminder/teaching/instruction from the communities around you.
 
-সৃষ্টির মধ্যে তোমরা কি শুধু পুরুষের সাথেই উপগত হবে?
+তোমরা কি তোমাদের চারপাশের সম্প্রদায়ের (আলামীন) কাছ থেকে স্মরণ/শিক্ষা/নির্দেশনা (যুকরান) গ্রহণ করো বা অনুসরণ করো?
+
+"যুকরান (Zukran): এই শব্দটির উৎস "যিকির" (Zikr)থেকে, যার অর্থ "স্মরণ / স্মরণীয় করে তোলা" (Remembrance/Made Prominent)।
 
 `166`
 
 `وَتَذَرُونَ مَا خَلَقَ لَكُمْ رَبُّكُم مِّنْ أَزْوَٰجِكُم ۚ بَلْ أَنتُمْ قَوْمٌ عَادُونَ`
 
-And leave what your Lord has created for you as mates? But you are a people transgressing.
+And (instead) You leave what your Lord created from your own mates? No, you're surely a people hostile/against that which is right.
 
-এবং তোমাদের প্রতিপালক তোমাদের জন্য যে স্ত্রীগণকে সৃষ্টি করেছেন তাদেরকে ত্যাগ কর? রবং তোমরা এক সীমালঙ্ঘনকারী সম্প্রদায়।
+অথচ তোমরা কি তোমাদের প্রভু কর্তৃক সৃষ্ট (তোমাদেরই) সাথী/আযওয়াজ (partners/সহকর্মী)-দেরকে পরিত্যাগ করো? না! বরং তোমরা তো এমন এক সম্প্রদায়, যারা ন্যায়/সত্যের (সঠিক পথের) প্রতি শত্রুতা পোষণ করে!
 
 `167`
 

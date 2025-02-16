@@ -21,17 +21,17 @@ And when Our messengers came to Lot, he was perturbed by their coming and felt t
 
 `وَجَآءَهُۥ قَوْمُهُۥ يُهْرَعُونَ إِلَيْهِ وَمِن قَبْلُ كَانُوا۟ يَعْمَلُونَ ٱلسَّيِّـَٔاتِ ۚ قَالَ يَـٰقَوْمِ هَـٰٓؤُلَآءِ بَنَاتِى هُنَّ أَطْهَرُ لَكُمْ ۖ فَٱتَّقُوا۟ ٱللَّهَ وَلَا تُخْزُونِ فِى ضَيْفِىٓ ۖ أَلَيْسَ مِنكُمْ رَجُلٌۭ رَّشِيدٌۭ`
 
-And his people came hastening to him, and before [this] they had been doing evil deeds.1 He said, "O my people, these are my daughters; they are purer for you. So fear Allāh and do not disgrace me concerning my guests. Is there not among you a man of reason?"
+And his people came hastening to him, and up until now they had been doing evil deeds. He said "My Qom, these are my teachings / ideals regarding the protection of nisaa. These teachings are better/pure in cleansing you. So fear Allāh and do not disgrace me concerning my guests. Is there not among you a man of reason?"
 
-আর তার কাওম তার কাছে ছুটে এলো, এবং তারা পূর্ব হতে কু-কার্যসমূহ করেই আসছিল। লূত বললঃ হে আমার কাওম! (তোমাদের ঘরে) আমার এই কন্যারা রয়েছে, এরা তোমাদের জন্য অতি উত্তম, অতএব তোমরা আল্লাহকে ভয় কর এবং আমাকে আমার মেহমানদের সামনে অপমানিত করনা; তোমাদের মধ্যে কি সুবোধ লোক কেহ নেই?
+আর তাঁর সম্প্রদায় দ্রুত তাঁর দিকে ছুটে এলো—এবং এর আগে পর্যন্ত তারা মন্দ কাজে লিপ্ত ছিল। তিনি বললেন, 'হে আমার সম্প্রদায় (কওম)! এগুলোই আমার বানাত (আদর্শ/শিক্ষা) নিসা (দুর্বল ও উপেক্ষিতদের) সুরক্ষা-সংক্রান্ত। এই শিক্ষাগুলো তোমাদের পরিশুদ্ধির জন্য উত্তম ও পবিত্র। সুতরাং আল্লাহ্কে ভয় করো এবং আমার মেহমানদের ব্যাপারে আমাকে অপদস্ত করো না। তোমাদের মধ্যে কি একজনও বিচক্ষণ ব্যক্তি নেই?'
 
 `79`
 
 `قَالُوا۟ لَقَدْ عَلِمْتَ مَا لَنَا فِى بَنَاتِكَ مِنْ حَقٍّۢ وَإِنَّكَ لَتَعْلَمُ مَا نُرِيدُ`
 
-They said: 'Surely you already know that we have nothing to do with your daughters.1 You also know well what we want.'
+They said: 'Surely you already know that we have nothing to do with your banat = teachings / ideals. You also know well what we want.'
 
-তারা বললঃ তুমিতো অবগত আছ যে, তোমার এই কন্যাগুলির আমাদের কোন প্রয়োজন নেই, আর আমাদের অভিপ্রায় কি তাও তোমার জানা আছে।
+তারা বলল, 'তুমি তো ভালো করেই জানো যে তোমার বানাত (আদর্শ/শিক্ষা)-এর সাথে আমাদের কোনো সম্পর্ক নেই। তুমি এও ভালো করেই জানো আমরা কী চাই।'
 
 `80`
 

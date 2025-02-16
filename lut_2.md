@@ -10,17 +10,13 @@ layout: default
 
 `وَلُوطًا إِذْ قَالَ لِقَوْمِهِۦٓ أَتَأْتُونَ ٱلْفَـٰحِشَةَ مَا سَبَقَكُم بِهَا مِنْ أَحَدٍۢ مِّنَ ٱلْعَـٰلَمِينَ`
 
-And [We had sent] Lot when he said to his people, "Do you commit such immorality as no one has preceded you with from among the worlds [i.e., peoples]?
+And Lut, when he said to his people (males & females): Surely, you all approach the Fahisha = Excessiveness in being wrong / immorality, at a level that no one in the alameen = those around you has reached.
 
-আর আমি লূতকে পাঠিয়েছিলাম। সে তার কাওমকে বলেছিলঃ তোমরা এমন অশ্লীল ও কু-কর্ম করছো যা তোমাদের পূর্বে বিশ্বে আর কেহই করেনি।
+আর লূত (আঃ) যখন তাঁর সম্প্রদায়কে (পুরুষ ও নারী উভয়কে) বললেন: 'নিশ্চয়ই তোমরা সবাই (পুরুষ ও নারী) ফাহিশা—অর্থাৎ অন্যায়ের অতিরেক/অনৈতিকতার চূড়ান্ত পর্যায়—এর দিকে এগিয়ে চলেছ, এমন এক স্তরে যা তোমাদের চারপাশের কোনো মানুষ (আলামীন = তোমাদের নিকটবর্তী সম্প্রদায়) কখনও পৌঁছায়নি।'
 
 `81`
 
 `إِنَّكُمْ لَتَأْتُونَ ٱلرِّجَالَ شَهْوَةًۭ مِّن دُونِ ٱلنِّسَآءِ ۚ بَلْ أَنتُمْ قَوْمٌۭ مُّسْرِفُونَ`
-
-Indeed, you approach men with desire, instead of women. Rather, you are a transgressing people.
-
-তোমরা যৌন তাড়নায় স্ত্রীদের বাদ দিয়ে পুরুষদের নিকট গমন করছ, তোমরা হচ্ছ এক সীমালঙ্ঘনকারী সম্প্রদায়।
 
 Do you all (males and females) approach the powerful / authoritative ones = rijal, in a state of always seeking / always  wanting / always desiring more, WITHOUT taking the Nisa -- the forgotten ones, those mutakhireen whose potential is still to come, ones who are weak -- into account? No, you all are a people who are transgressors / excessive!
 
