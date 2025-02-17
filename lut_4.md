@@ -5,11 +5,6 @@ layout: default
 
 `Chapter: 15 Surah Al-Hijr`
 
-`The angels visit Ibrahim (Abraham) first, then proceed to Lut to warn him of Sodom’s destruction.`  
-
-`Theme: Allah’s justice and the inevitability of His decree.`
-
-
 
 `57`
 
@@ -182,6 +177,4 @@ Indeed in that is a sign for the believers.
 অবশ্যই এতে মু’মিনদের জন্য রয়েছে নিদর্শন।
 
 
-[Back](./lut_3.md)
-
-[Next](./lut_5.md)
+[Back](./lut_3.md)    [Next](./lut_5.md)

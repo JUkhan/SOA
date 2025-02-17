@@ -3,7 +3,6 @@ layout: default
 ---
 
 
-
 `Chapter 37: Surah As-Saffat`
 
 `133`

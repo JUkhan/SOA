@@ -9,10 +9,6 @@ layout: default
 
 `وَلُوطًا إِذْ قَالَ لِقَوْمِهِۦٓ إِنَّكُمْ لَتَأْتُونَ ٱلْفَـٰحِشَةَ مَا سَبَقَكُم بِهَا مِنْ أَحَدٍۢ مِّنَ ٱلْعَـٰلَمِينَ`
 
-And [mention] Lot, when he said to his people, "Indeed, you commit such immorality as no one has preceded you with from among the worlds.
-
-স্মরণ কর লূতের কথা, যখন সে তার সম্প্রদায়কে বলেছিল- অবশ্যই তোমরা এমন এক অশ্লীল কাজ করছ যা তোমাদের পূর্বে বিশ্বজগতে কেউ করেনি।
-
 And Lut, when he said to his people (males & females): Surely, you all (males & females) approach the Fahisha = Excessiveness in being wrong, at a level that no one in the alameen = those around you has reached.
 
 
@@ -23,9 +19,6 @@ And Lut, when he said to his people (males & females): Surely, you all (males & 
 
 `أَئِنَّكُمْ لَتَأْتُونَ ٱلرِّجَالَ وَتَقْطَعُونَ ٱلسَّبِيلَ وَتَأْتُونَ فِى نَادِيكُمُ ٱلْمُنكَرَ ۖ فَمَا كَانَ جَوَابَ قَوْمِهِۦٓ إِلَّآ أَن قَالُوا۟ ٱئْتِنَا بِعَذَابِ ٱللَّهِ إِن كُنتَ مِنَ ٱلصَّـٰدِقِينَ`
 
-Indeed, you approach men and obstruct the road and commit in your meetings [every] evil." And the answer of his people was not but that they said, "Bring us the punishment of Allāh, if you should be of the truthful."
-
-তোমরা পুরুষের উপর উপগত হচ্ছ এবং তোমরা রাহাজানি করে থাক এবং তোমরা নিজেদের মজলিশে প্রকাশ্য ঘৃণ্য কাজ করে থাক। উত্তরে তার সম্প্রদায় শুধু এই বললঃ আমাদের উপর আল্লাহর শাস্তি আনয়ন কর, যদি তুমি সত্যবাদী হও।
 
 Do you all (males & females) approach the powerful / authoritative ones = rijal, and cut off the Al-Sabeel = Allah's path, and you approach in your gatherings that what is understood to be wrong / is disavowed ? Then the only answer of his Qom had was this: Bring to us the azab = retribution of Allah / Allah's rules, if you are indeed from the truthful ones
 

@@ -4,7 +4,7 @@ layout: default
 
 `Chapter: 7 Surah Al-A’raf`
 
-`Theme: Condemnation of homosexuality and societal corruption.`
+
 
 `80`
 
@@ -47,6 +47,4 @@ And We rained upon them a rain [of stones]. Then see how was the end of the crim
 
 অতঃপর আমি তাদের উপর মুষলধারে বারিপাত ঘটালাম, অতঃপর লক্ষ্য কর, অপরাধী লোকদের পরিণাম কি হয়েছিল।
 
-[Back](./lut.md)
-
-[Next](./lut_3.md)
+[Back](./lut.md)       [Next](./lut_3.md)

@@ -12,7 +12,7 @@ layout: default
 
 And to Lot We gave judgement and knowledge, and We saved him from the city that was committing wicked deeds. Indeed, they were a people of evil, defiantly disobedient.
 
-আর আমি লূতকেও দিয়েছিলাম বিচারশক্তি ও জ্ঞান। আমি তাকে উদ্ধার করেছিলাম সেই জনবসতি থেকে যা অশ্লীল কাজে লিপ্ত ছিল, তারা ছিল এক খারাপ পাপাচারী জাতি।
+আর আমি লূতকেও দিয়েছিলাম বিচারশক্তি ও জ্ঞান। আমি তাকে উদ্ধার করেছিলাম সেই জনবসতি থেকে যা অন্যায়ের অতিরেক/অনৈতিকতার চূড়ান্ত পর্যায়ে লিপ্ত ছিল, তারা ছিল এক খারাপ পাপাচারী জাতি।
 
 `75`
 
