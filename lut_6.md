@@ -59,9 +59,9 @@ Do you approach/take the reminder/teaching/instruction from the communities arou
 
 `وَتَذَرُونَ مَا خَلَقَ لَكُمْ رَبُّكُم مِّنْ أَزْوَٰجِكُم ۚ بَلْ أَنتُمْ قَوْمٌ عَادُونَ`
 
-And (instead) You leave what your Lord created from your own mates? No, you're surely a people hostile/against that which is right.
+And (instead) You leave what your Lord created from your own Ajwaj = partners(males AND females)? No, you're surely a people hostile/against that which is right.
 
-অথচ তোমরা কি তোমাদের প্রভু কর্তৃক সৃষ্ট (তোমাদেরই) সাথী/আযওয়াজ (partners/সহকর্মী)-দেরকে পরিত্যাগ করো? না! বরং তোমরা তো এমন এক সম্প্রদায়, যারা ন্যায়/সত্যের (সঠিক পথের) প্রতি শত্রুতা পোষণ করে!
+অথচ তোমরা কি তোমাদের প্রভু কর্তৃক সৃষ্ট (তোমাদেরই) সাথী/আযওয়াজ (partners/সহকর্মী)-দেরকে পরিত্যাগ করো? না! বরং তোমরা তো এমন এক সম্প্রদায়, যারা সত্য-ন্যায়ের (সঠিক পথের) প্রতি শত্রুতা পোষণ করে!
 
 `167`
 

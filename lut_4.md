@@ -129,10 +129,6 @@ They said "didn't we stop you from the others/other communities?"
 
 `قَالَ هَـٰٓؤُلَآءِ بَنَاتِىٓ إِن كُنتُمْ فَـٰعِلِينَ`
 
-He said: Here are my daughters, if you must be doing (so).
-
-লূত বললঃ একান্তই যদি তোমরা কিছু করতে চাও তাহলে আমার এই কন্যাগণ রয়েছে।
-
 He said 'These are my banati = ideals around the protection of rights of the nisaa, If you are bent on doing something'
 
 "তিনি বললেন, 'এগুলোই আমার বানাত (দুর্বল ও উপেক্ষিতদের অধিকার রক্ষার আদর্শ)! যদি তোমরা কিছু করতে দৃঢ়প্রতিজ্ঞই হও (অন্যায়ের পথে), তবে করো!'"
