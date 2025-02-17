@@ -146,7 +146,7 @@ O Messenger, announce that which has been revealed to you from your Lord, and if
 
 `98:1`
 
-Those who disbelieved among the People of the Scripture and the polytheists were not to be parted [from misbelief]1 until there came to them clear evidence.
+Those who disbelieved among the People of the Scripture and the polytheists were not to be parted [from misbelief] until there came to them clear evidence.
 
 কিতাবধারীদের মধ্যে যারা কাফির ছিল তারা আর মুশরিকরা (তাদের ভ্রান্ত মত ও পথ হতে) সরে আসত না যতক্ষণ না তাদের কাছে আসত সুস্পষ্ট প্রমাণ।
 
@@ -199,7 +199,7 @@ My Lord! Lo! they have led many of mankind astray. But whoso followeth me, he ve
 
 এবং তোমরা আল্লাহরই ইবাদাত কর এবং তাঁর সাথে কোন বিষয়ে অংশী স্থাপন করনা; এবং মাতা-পিতার সাথে সদ্ব্যবহার কর এবং আত্মীয়-স্বজন, পিতৃহীন, দরিদ্র, সম্পর্কবিহীন প্রতিবেশী, পার্শ্ববতী সহচর ও পথিক এবং তোমাদের দাস-দাসীদের সাথেও সদ্ব্যবহার কর; নিশ্চয়ই আল্লাহ অহংকারী আত্মাভিমানীকে ভালবাসেননা।
 
-Worship Allāh and associate nothing with Him, and to parents do good, and to relatives, orphans, the needy, the near neighbor, the neighbor farther away, the companion at your side,1 the traveler, and those whom your right hands possess. Indeed, Allāh does not like those who are self-deluding and boastful,
+Worship Allāh and associate nothing with Him, and to parents do good, and to relatives, orphans, the needy, the near neighbor, the neighbor farther away, the companion at your side, the traveler, and those whom your right hands possess. Indeed, Allāh does not like those who are self-deluding and boastful,
 
 ***
 
@@ -227,7 +227,7 @@ Of those who have divided their religion and become sects, every faction rejoici
 
 `27:91`
 
-[Say, O Muḥammad], "I have only been commanded to worship the Lord of this city,1 who made it sacred and to whom [belongs] all things. And I am commanded to be of the Muslims [i.e., those who submit to Allāh].
+[Say, O Muḥammad], "I have only been commanded to worship the Lord of this city, who made it sacred and to whom [belongs] all things. And I am commanded to be of the Muslims [i.e., those who submit to Allāh].
 
 আমিতো আদিষ্ট হয়েছি এই নগরীর রবের ইবাদাত করতে, যিনি একে করেছেন সম্মানিত। সব কিছু তাঁরই। আমি আরও আদিষ্ট হয়েছি যেন আমি আত্মসমর্পনকারীদের অন্তর্ভুক্ত হই।
 

@@ -66,4 +66,6 @@ marked from your Lord. Nor is the punishment far off from the wrong-doers.
 যে প্রস্তর খন্ডের প্রতিটিই তোমার প্রতিপালকের নিকট চিহ্নিত ছিল। যালিমদের জন্য এ শাস্তি বেশী দূরের ব্যাপার নয়।
 
 
-[Back](./lut.md)
+[Back](./lut_2.md)
+
+[Next](./lut_4.md)

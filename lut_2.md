@@ -20,7 +20,7 @@ And Lut, when he said to his people (males & females): Surely, you all approach 
 
 Do you all (males and females) approach the powerful / authoritative ones = rijal, in a state of always seeking / always  wanting / always desiring more, WITHOUT taking the Nisa -- the forgotten ones, those mutakhireen whose potential is still to come, ones who are weak -- into account? No, you all are a people who are transgressors / excessive!
 
-তোমরা কি (পুরুষ ও নারী উভয়েই) প্রভাবশালী/কর্তৃত্বশীলদের (রিজাল) কাছে এমনভাবে ধাবিত হও, যেখানে তোমাদের অবস্থা হলো—অনবরত চাওয়া-পাওয়ার লিপ্সায় আক্রান্ত, আর 'নিসা' (উপেক্ষিত দুর্বলরা, যাদের সম্ভাবনা এখনো অঙ্কুরিত হয়নি; পিছিয়ে পড়া ও দুর্বল শ্রেণি)-দেরকে সম্পূর্ণ উপেক্ষা করো? না! বরং তোমরা তো সীমালঙ্ঘনকারী একটি সম্প্রদায়!
+তোমরা সবাই (পুরুষ ও নারী) কি ক্ষমতাধর/প্রভাবশালী ব্যক্তিদের (রিজাল) কাছে সর্বদা আরও চাওয়া, আরও আকাঙ্ক্ষা, আরও লালসার মনোভাব নিয়ে যাও, অথচ নিসা—যারা বিস্মৃত, পিছিয়ে পড়া (মুতাখিরীন), যাদের সম্ভাবনা এখনো অঙ্কুরিত হয়নি, যারা দুর্বল—তাদেরকে গণনার মধ্যে আনো না? না, তোমরা সবাই এমন এক সম্প্রদায় যারা সীমালঙ্ঘনকারী ও মাত্রাতিরিক্ত!
 
 
 `82`
@@ -48,3 +48,5 @@ And We rained upon them a rain [of stones]. Then see how was the end of the crim
 অতঃপর আমি তাদের উপর মুষলধারে বারিপাত ঘটালাম, অতঃপর লক্ষ্য কর, অপরাধী লোকদের পরিণাম কি হয়েছিল।
 
 [Back](./lut.md)
+
+[Next](./lut_3.md)

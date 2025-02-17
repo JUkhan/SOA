@@ -5,7 +5,7 @@ layout: default
 
 `2:48` তোমরা সেদিনকে ভয় কর যেদিন কেউ কারো উপকারে আসবে না এবং কারও সুপারিশ গৃহীত হবে না এবং কারও নিকট থেকে ক্ষতিপূরণ গ্রহণ করা হবে না আর তারা কোন রকম সাহায্যও পাবে না।
 
-`2:48` Guard yourselves against the Day on which no soul will be of help to another. No intercession1 will be accepted, no ransom taken, and no help will be given.
+`2:48` Guard yourselves against the Day on which no soul will be of help to another. No intercession will be accepted, no ransom taken, and no help will be given.
 
 ***
 

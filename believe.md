@@ -33,7 +33,7 @@ layout: default
 
 `2:4` আর তোমার প্রতি যা নাযিল হয়েছে ও তোমার পূর্বে যা নাযিল হয়েছে তাতে তারা বিশ্বাস স্থাপন করে এবং পরকালের প্রতিও তারা নিশ্চিত বিশ্বাসী।
 
-`2:4` and who believe in what has been revealed to you ˹O Prophet˺1 and what was revealed before you, and have sure faith in the Hereafter.
+`2:4` and who believe in what has been revealed to you ˹O Prophet˺ and what was revealed before you, and have sure faith in the Hereafter.
 
 ***
 وَمِنَ ٱلنَّاسِ مَن يَقُولُ `ءَامَنَّا` بِٱللَّهِ وَبِٱلْيَوْمِ ٱلْـَٔاخِرِ وَمَا هُم بِمُؤْمِنِينَ

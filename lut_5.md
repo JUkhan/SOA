@@ -23,4 +23,4 @@ And We admitted him into Our mercy. Indeed, he was of the righteous.
 
 আমি তাকে আমার রাহমাতের অন্তর্ভুক্ত করেছিলাম, সে ছিল সৎ কর্মশীলদের একজন।
 
-[Back](./lut.md)
+[Back](./lut_4.md)                     [Next](./lut_6.md)

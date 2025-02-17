@@ -99,7 +99,7 @@ So We saved him and his family, all,
 
 `إِلَّا عَجُوزًۭا فِى ٱلْغَـٰبِرِينَ`
 
-Except an old woman1 among those who remained behind.
+Except an old woman among those who remained behind.
 
 এক বৃদ্ধা ব্যতীত, সে ছিল পশ্চাতে অবস্থানকারীদের অন্তর্ভুক্ত।
 
@@ -135,4 +135,4 @@ And indeed, your Lord - He is the Exalted in Might, the Merciful.
 
 তোমার প্রতিপালক, তিনি মহা প্রতাপশালী, বড়ই দয়ালু।
 
-[Back](./lut.md)
+[Back](./lut_5.md)                             [Next](./lut7.md)

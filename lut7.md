@@ -10,7 +10,7 @@ layout: default
 `وَلُوطًا إِذْ قَالَ لِقَوْمِهِۦٓ أَتَأْتُونَ ٱلْفَـٰحِشَةَ وَأَنتُمْ تُبْصِرُونَ`
 
 
-And [mention] Lot, when he said to his people, "Do you commit immorality1 while you are seeing?
+And [mention] Lot, when he said to his people, "Do you commit immorality while you are seeing?
 
 স্মরণ কর লূতের কথা, সে তার সম্প্রদায়কে বলেছিল- তোমরা দেখে-শুনে কেন অশ্লীল কাজ করছ,
 
@@ -22,6 +22,10 @@ And [mention] Lot, when he said to his people, "Do you commit immorality1 while 
 Do you indeed approach men with desire instead of women? Rather, you are a people behaving ignorantly.
 
 তোমরা কি কাম আসক্তি মিটানোর জন্য নারীদের বাদ দিয়ে পুরুষদের নিকট গমন কর? তোমরা এমন এক জাতি যারা মূর্খের আচরণ করছ।
+
+Do you all (males and females) approach the powerful / authoritative ones = rijal, in a state of always seeking / always  wanting / always desiring more, WITHOUT taking the Nisa -- the forgotten ones, those mutakhireen whose potential is still to come, ones who are weak into account? No, you all(male and females) are a people who choose to ignore/overlook/not consider!
+
+তোমরা সবাই (পুরুষ ও নারী) কি ক্ষমতাধর/প্রভাবশালী ব্যক্তিদের (রিজাল) কাছে সর্বদা আরও চাওয়া, আরও কামনা করা, আরও লালসা করার অবস্থানে যাও, অথচ নিসা—যারা বিস্মৃত, যাদের সম্ভাবনা এখনো আসেনি, যারা দুর্বল, পিছিয়ে পড়াদের কথা বিবেচনায় নাও না? না, তোমরা সবাই (পুরুষ ও নারী) এমন এক সম্প্রদায় যারা ইচ্ছাকৃতভাবে উপেক্ষা করে চলেছ!
 
 `56`
 
@@ -48,4 +52,4 @@ And We rained upon them a rain [of stones], and evil was the rain of those who w
 
 আর আমি তাদের উপর বর্ষিয়ে ছিলাম এক ভয়ংকর বৃষ্টি। ভীতি প্রদর্শিতদের উপর এ বৃষ্টি ছিল কতই না মন্দ!
 
-[Back](./lut.md)
+[Back](./lut.md)           [Next](./lut_8.md)

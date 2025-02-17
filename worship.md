@@ -21,7 +21,7 @@ layout: default
 
 `2:26` নিশ্চয় আল্লাহতো মশা অথবা তার চেয়েও ক্ষুদ্র কোন বস্তুর উদাহরণ দিতে লজ্জাবোধ করেন না; অতএব যারা ঈমানদার তারা জানে যে, এ সত্য তাদের প্রতিপালকের নিকট থেকে এসেছে, কিন্তু যারা অবিশ্বাসী তারা বলে যে, আল্লাহ কী উদ্দেশ্যে এ উদাহরণ পেশ করেছেন? (আসল ব্যাপার হল) তিনি এর দ্বারা অনেককেই বিভ্রান্ত করেন, আবার অনেককেই সৎপথে পরিচালিত করেন। বস্তুতঃ তিনি ফাসিকদের ছাড়া আর কাউকেও বিভ্রান্ত করেন না।
 
-`2:26` Indeed, Allāh is not timid to present an example - that of a mosquito or what is smaller1 than it. And those who have believed know that it is the truth from their Lord. But as for those who disbelieve, they say, "What did Allāh intend by this as an example?" He misleads many thereby and guides many thereby. And He misleads not except the defiantly disobedient,
+`2:26` Indeed, Allāh is not timid to present an example - that of a mosquito or what is smaller than it. And those who have believed know that it is the truth from their Lord. But as for those who disbelieve, they say, "What did Allāh intend by this as an example?" He misleads many thereby and guides many thereby. And He misleads not except the defiantly disobedient,
 
 ***
 كَيْفَ تَكْفُرُونَ بِٱللَّهِ وَكُنتُمْ أَمْوَٰتًۭا فَأَحْيَـٰكُمْ ۖ ثُمَّ يُمِيتُكُمْ ثُمَّ يُحْيِيكُمْ ثُمَّ إِلَيْهِ تُرْجَعُونَ

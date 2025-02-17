@@ -113,19 +113,17 @@ In the meantime the people of the city came to Lot rejoicing.
 
 `وَٱتَّقُوا۟ ٱللَّهَ وَلَا تُخْزُونِ`
 
+And fear Allāh and do not disgrace me.
+
 তোমরা আল্লাহকে ভয় কর, আমাকে লজ্জিত করো না।’
 
 `70`
 
 `قَالُوٓا۟ أَوَلَمْ نَنْهَكَ عَنِ ٱلْعَـٰلَمِينَ`
 
-They said, "Have we not forbidden you from [protecting] people?"
-
-তারা বলল, দুনিয়াব্যাপী বিষয় নিয়ে কথা বলতে আমরা কি তোমাকে নিষেধ করিনি?’
-
 They said "didn't we stop you from the others/other communities?"
 
-তারা বলল, 'আমরা কি তোমাকে অন্য সম্প্রদায়/অন্যরা থেকে রোধ করিনি?'
+তারা বললো "আমরা কি আপনাকে অন্যদের/অন্যান্য সম্প্রদায়গুলি থেকে বিরত রাখিনি?"
 
 `71`
 
@@ -188,4 +186,6 @@ Indeed in that is a sign for the believers.
 অবশ্যই এতে মু’মিনদের জন্য রয়েছে নিদর্শন।
 
 
-[Back](./lut.md)
+[Back](./lut_3.md)
+
+[Next](./lut_5.md)

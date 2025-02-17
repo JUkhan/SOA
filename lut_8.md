@@ -23,7 +23,7 @@ And Lut, when he said to his people (males & females): Surely, you all (males & 
 
 `أَئِنَّكُمْ لَتَأْتُونَ ٱلرِّجَالَ وَتَقْطَعُونَ ٱلسَّبِيلَ وَتَأْتُونَ فِى نَادِيكُمُ ٱلْمُنكَرَ ۖ فَمَا كَانَ جَوَابَ قَوْمِهِۦٓ إِلَّآ أَن قَالُوا۟ ٱئْتِنَا بِعَذَابِ ٱللَّهِ إِن كُنتَ مِنَ ٱلصَّـٰدِقِينَ`
 
-Indeed, you approach men and obstruct the road1 and commit in your meetings [every] evil." And the answer of his people was not but that they said, "Bring us the punishment of Allāh, if you should be of the truthful."
+Indeed, you approach men and obstruct the road and commit in your meetings [every] evil." And the answer of his people was not but that they said, "Bring us the punishment of Allāh, if you should be of the truthful."
 
 তোমরা পুরুষের উপর উপগত হচ্ছ এবং তোমরা রাহাজানি করে থাক এবং তোমরা নিজেদের মজলিশে প্রকাশ্য ঘৃণ্য কাজ করে থাক। উত্তরে তার সম্প্রদায় শুধু এই বললঃ আমাদের উপর আল্লাহর শাস্তি আনয়ন কর, যদি তুমি সত্যবাদী হও।
 
@@ -81,4 +81,4 @@ And We have certainly left of it a sign as clear evidence for a people who use r
 এতে আমি জ্ঞানী সম্প্রদায়ের জন্য এক সুস্পষ্ট নিদর্শন রেখে দিয়েছি।
 
 
-[Back](./lut.md)
+[Back](./lut7.md)                   [Next](./lut_9.md)
