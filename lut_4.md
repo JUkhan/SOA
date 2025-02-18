@@ -126,7 +126,7 @@ They said "didn't we stop you from the others/other communities?"
 
 He said 'These are my banati = ideals around the protection of rights of the nisaa, If you are bent on doing something'
 
-"তিনি বললেন, 'এগুলোই আমার বানাত (দুর্বল ও উপেক্ষিতদের অধিকার রক্ষার আদর্শ)! যদি তোমরা কিছু করতে দৃঢ়প্রতিজ্ঞই হও (অন্যায়ের পথে), তবে করো!'"
+"তিনি বললেন, 'এগুলোই আমার বানাত (দুর্বল ও উপেক্ষিতদের অধিকার রক্ষার শিক্ষা/নির্দেশনা/আদর্শ)! যদি তোমরা কিছু করতে দৃঢ়প্রতিজ্ঞই হও (অন্যায়ের পথে), তবে করো!'"
 
 `72`
 
